@@ -1,11 +1,8 @@
 {
   "name": "save-data-form",
   "version": "1.0.0",
-  "description": "",
-  "main": "Saves form field data in LocalStorange and automatically fills in the f",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "description": "Saves form field data in LocalStorange and automatically fills in the form with this saved data",
+  "main": "",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Chinaider/save_data_form.git"
