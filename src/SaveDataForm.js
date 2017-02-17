@@ -46,7 +46,7 @@ var SaveDataForm = (function () {
     */
     SaveDataForm.prototype._populateData = function () {
         var content = this._getLocalStorange();
-        if (content.length > 0) {
+        if (Object.keys(content).length > 0) {
             $.each(this._config.fields, function () {
                 var field = $(this.type + "[name=" + this.name + "]");
                 field.val(content[this.name]);
