@@ -63,12 +63,4 @@ form.getData();
 Erase all data saved on the client.
 ```
 form.clearDataForm();
-<<<<<<< HEAD
-<<<<<<< HEAD
 ```
-=======
-```
->>>>>>> 4eda750545474706ccbbfdb75566ddcbe5e1005f
-=======
-```
->>>>>>> 4eda750545474706ccbbfdb75566ddcbe5e1005f
